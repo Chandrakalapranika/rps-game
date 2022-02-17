@@ -9,7 +9,7 @@
   <version>1.0</version>
   <packaging>war</packaging>
 
-  <name>Chandranin web application</name>
+  <name>Chandranin web applications</name>
   <url>http://www.mcnz.com</url>
 
   <properties>
